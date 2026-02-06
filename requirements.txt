@@ -1,17 +1,9 @@
-# Core packages
+streamlit==1.19.0
+scikit-learn
 numpy
 pandas
-scikit-learn
-
-altair==4.2.2
-
-
-# Visualization
+joblib
+scipy
 matplotlib
 seaborn
-
-# Model saving/loading
-joblib
-
-# Streamlit for deployment
-streamlit
+altair==4.2.2
